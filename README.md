@@ -1,2 +1,2 @@
-# KiCAD-MetricConnectors
-Libraries of automation M connectors for KiCAD
+# kicad-metricConnectors
+Libraries of automation M connectors for KiCad
